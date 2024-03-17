@@ -30,7 +30,7 @@
 /* Additional Libraries */
 
 #ifndef T2_MESSAGE_MAX_DATA_LEN
-#define T2_MESSAGE_MAX_DATA_LEN 8
+#define T2_MESSAGE_MAX_DATA_LEN 19
 #endif
 
 #ifndef T2_MESSAGE_HEADERS_LEN
